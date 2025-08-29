@@ -9,6 +9,10 @@
         "$type": "color",
         "$value": "#000000"
       }
+    },
+    "Red": {
+      "$type": "color",
+      "$value": "#f00"
     }
   },
   "alpha": {
@@ -148,5 +152,13 @@
         "$value": "#171717"
       }
     }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "primitives",
+      "alpha",
+      "neutral"
+    ]
   }
 }
